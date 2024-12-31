@@ -1,13 +1,14 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> hashMap; 
         int n = nums.size();
-        for (int i =0; i<n-1; i++){
-            for (int j = i+1; j <n; j++){
-                if (nums[i] + nums[j] == target){
-                    return {i, j};
-                }
+        for (int i = 0; i < n; i++){
+            int dist = target - nums[i];
+            if (hashMap.count(dist)){
+                return {hashMap[dist], i};
             }
+            hashMap[nums[i]] = i;
         }
         return {};
     }

@@ -14,7 +14,7 @@ public:
             temp = temp / 10;
             
         }
-        cout << reversed << endl;
+        
         return reversed == x;
         }
 };

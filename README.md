@@ -43,4 +43,20 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aym98/LeetCode/tree/master/0069-sqrtx) |
+## Depth-First Search
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Aym98/LeetCode/tree/master/0820-find-eventual-safe-states) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Aym98/LeetCode/tree/master/0820-find-eventual-safe-states) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Aym98/LeetCode/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Aym98/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

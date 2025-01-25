@@ -27,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aym98/LeetCode/tree/master/0001-two-sum) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aym98/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aym98/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Stack
 |  |
 | ------- |
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aym98/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Union Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aym98/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aym98/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->

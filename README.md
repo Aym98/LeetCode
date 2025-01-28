@@ -50,18 +50,22 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Aym98/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/Aym98/LeetCode/tree/master/1558-course-schedule-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Aym98/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/Aym98/LeetCode/tree/master/1558-course-schedule-iv) |
 ## Graph
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Aym98/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/Aym98/LeetCode/tree/master/1558-course-schedule-iv) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Aym98/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/Aym98/LeetCode/tree/master/1558-course-schedule-iv) |
 ## Two Pointers
 |  |
 | ------- |

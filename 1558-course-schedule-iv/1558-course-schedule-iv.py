@@ -16,17 +16,10 @@ class Solution:
         for a in range(numCourses):
             dfs(a)
 
-        res = [False for x in range(len(queries))]
+        res = []
+        for u, v in queries:
+            res.append(u in look_up[v])
         
-        for i in range(len(queries)):
-            a = queries[i][1]
-            if a not in look_up:
-                continue
-
-            b = queries[i][0]
-            prereq_list = look_up[a]
-            if b in prereq_list:
-                res[i] = True
         return res
 
 

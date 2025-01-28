@@ -12,6 +12,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aym98/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aym98/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Aym98/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2825-minimize-string-length](https://github.com/Aym98/LeetCode/tree/master/2825-minimize-string-length) |
 ## Sliding Window
 |  |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aym98/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Aym98/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->

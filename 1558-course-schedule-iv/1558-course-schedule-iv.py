@@ -1,12 +1,13 @@
 class Solution:
     def checkIfPrerequisite(self, numCourses: int, prerequisites: List[List[int]], queries: List[List[int]]) -> List[bool]:
         look_up = {}
-        courses = [sublist[1] for sublist in prerequisites]
+        adj = defaultdict(list)
+        for prereq, crs in prerequisites:
+            adj[crs].append(prereq)
         def dfs(a):
             if a not in look_up:
                 look_up[a] = set()
-                next_nodes = [sublist[0] for sublist in 
-                prerequisites if sublist[1] == a]
+                next_nodes = adj[a]
                 look_up[a].update(next_nodes)
                 for node in next_nodes:
                     look_up[a].update(dfs(node))

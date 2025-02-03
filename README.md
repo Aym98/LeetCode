@@ -30,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aym98/LeetCode/tree/master/0001-two-sum) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aym98/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aym98/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aym98/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aym98/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3429-special-array-i](https://github.com/Aym98/LeetCode/tree/master/3429-special-array-i) |

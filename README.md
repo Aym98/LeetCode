@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aym98/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aym98/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aym98/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2825-minimize-string-length](https://github.com/Aym98/LeetCode/tree/master/2825-minimize-string-length) |
 ## String
 |  |
@@ -13,6 +14,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aym98/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aym98/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Aym98/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aym98/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2825-minimize-string-length](https://github.com/Aym98/LeetCode/tree/master/2825-minimize-string-length) |
 ## Sliding Window
 |  |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Aym98/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aym98/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->

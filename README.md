@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aym98/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aym98/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1364-tuple-with-same-product](https://github.com/Aym98/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aym98/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2825-minimize-string-length](https://github.com/Aym98/LeetCode/tree/master/2825-minimize-string-length) |
 ## String
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aym98/LeetCode/tree/master/0001-two-sum) |
+| [1364-tuple-with-same-product](https://github.com/Aym98/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aym98/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aym98/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Aym98/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -112,5 +114,6 @@
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Aym98/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aym98/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->

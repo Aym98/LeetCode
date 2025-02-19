@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aym98/LeetCode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aym98/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aym98/LeetCode/tree/master/0035-search-insert-position) |
 | [1364-tuple-with-same-product](https://github.com/Aym98/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aym98/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -59,6 +60,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aym98/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aym98/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Aym98/LeetCode/tree/master/0069-sqrtx) |
 ## Depth-First Search

@@ -4,7 +4,11 @@ class Solution:
             return False 
         y = str(x)
         n = len(y)
-        for i in range(int(n+1/2)):
-            if y[i] != y[n-1-i]:
+        j = n-1
+        i = 0
+        while i < j:
+            if y[i] != y[j]:
                 return False
+            i += 1
+            j -= 1
         return True

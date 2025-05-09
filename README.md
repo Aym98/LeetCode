@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aym98/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aym98/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Aym98/LeetCode/tree/master/0049-group-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Aym98/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aym98/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2825-minimize-string-length](https://github.com/Aym98/LeetCode/tree/master/2825-minimize-string-length) |
@@ -14,6 +15,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aym98/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aym98/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/Aym98/LeetCode/tree/master/0049-group-anagrams) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Aym98/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aym98/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2825-minimize-string-length](https://github.com/Aym98/LeetCode/tree/master/2825-minimize-string-length) |
@@ -37,6 +39,7 @@
 | [0001-two-sum](https://github.com/Aym98/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aym98/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aym98/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Aym98/LeetCode/tree/master/0049-group-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Aym98/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aym98/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Aym98/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -114,6 +117,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aym98/LeetCode/tree/master/0049-group-anagrams) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aym98/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
 |  |

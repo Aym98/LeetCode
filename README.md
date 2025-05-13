@@ -29,6 +29,7 @@
 | ------- |
 | [0197-rising-temperature](https://github.com/Aym98/LeetCode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Aym98/LeetCode/tree/master/0577-employee-bonus) |
+| [0620-not-boring-movies](https://github.com/Aym98/LeetCode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Aym98/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1415-students-and-examinations](https://github.com/Aym98/LeetCode/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Aym98/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |

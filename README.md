@@ -34,6 +34,7 @@
 | [0620-not-boring-movies](https://github.com/Aym98/LeetCode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Aym98/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/Aym98/LeetCode/tree/master/1155-product-sales-analysis-iii) |
+| [1278-product-price-at-a-given-date](https://github.com/Aym98/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1317-monthly-transactions-i](https://github.com/Aym98/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1390-average-selling-price](https://github.com/Aym98/LeetCode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Aym98/LeetCode/tree/master/1415-students-and-examinations) |
